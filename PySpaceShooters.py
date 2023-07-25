@@ -4,7 +4,7 @@ pygame.mixer.init()
 
 height,width=500,500
 window=pygame.display.set_mode((width,height))
-pygame.display.set_caption="Hello World"
+pygame.display.set_caption("PySpaceShooters")
 bg_color=(25,55,255)
 black=(0,0,0)
 spaceshiph,spaceshipw=100,75
